@@ -1,0 +1,10 @@
+build/
+.gradle/
+
+# Java
+*.class
+
+# Intellij
+.idea/
+*.iml
+*.iws
